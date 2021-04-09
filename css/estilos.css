@@ -1,5 +1,5 @@
 body{
-    color:red;
+    color:rgb(0, 0, 0);
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -14,6 +14,6 @@ body{
     margin: 0 auto;
 }
 #container h1{
-    font-size: 20px;
-    color: green;
+    font-size: 40px;
+    color: rgb(203, 3, 243);
 }
